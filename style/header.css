@@ -17,7 +17,8 @@ header::after {
     z-index: -1;
 }
 
-video {
+.logo {
+    height: 300px;
     position: absolute;
     top: 50%;
     left: 50%;

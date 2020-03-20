@@ -1,3 +1,10 @@
 footer {
-    height: 100vh;
+    height: 30vh;
+    margin-top: 15vh;
+    background-color: #131313;
+    border-top: 3px solid #59FEFE;
+}
+
+.footer-icons {
+    height: 8vh;
 }

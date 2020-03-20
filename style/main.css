@@ -1,0 +1,41 @@
+main {
+    background-color: #131313;
+}
+
+.boxes {
+    height: 100vh;
+    margin-top: 15vh;
+}
+
+.group-boxes {
+    margin: 15vh 0;
+}
+
+.blue-box {
+    height: 30vh;
+    width: 30vh;
+    background-color: #59FEFE;
+}
+
+.time-box {
+    width: 20vh;
+    height: 20vh;
+    line-height: 20vh;
+    border-radius: 8px;
+    background-color: #FFE400;
+}
+
+main .time-box span {
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+
+.suscribe-button {
+    margin-top: 20vh;
+    padding: 5vh 10%;
+    border-radius: 8px;
+    background-color: #FFE400;
+    font-size: 1.3em;
+}
