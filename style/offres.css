@@ -5,9 +5,13 @@
 }
 
 .suscribe-button {
-    padding: 2vh 10%;
+    padding: 2vh 6%;
     border-radius: 8px;
     background-color: #FFE400;
     font-size: 1.1em;
     color: black;
+}
+
+main p {
+    padding-top: 2vh;
 }
