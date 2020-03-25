@@ -13,3 +13,8 @@ p {
 main img {
     height: 10vh;
 }
+
+.dl-pdf:hover, .dl-pdf:visited, .dl-pdf:active {
+    color: white;
+    text-decoration: none;
+}
