@@ -5,13 +5,22 @@
 }
 
 .suscribe-button {
-    padding: 2vh 6%;
+    padding: 3vh 10%;
     border-radius: 8px;
     background-color: #FFE400;
-    font-size: 1.1em;
+    font-size: 1.2em;
     color: black;
 }
 
-main p {
+main .speech {
     padding-top: 2vh;
+    width: 70%;
+    line-height: 1.8em;
+}
+
+.button-div {
+    width: 30%;
+    text-align: center;
+    height: 20vh;
+    line-height: 20vh;
 }
