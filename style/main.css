@@ -39,3 +39,7 @@ main .time-box span {
     background-color: #FFE400;
     font-size: 1.3em;
 }
+
+.video-div {
+    margin-top: 20vh;
+}
