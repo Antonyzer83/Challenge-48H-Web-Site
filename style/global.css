@@ -1,3 +1,16 @@
 body {
     background-color: #131313;
 }
+
+h1, h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+@font-face {
+    font-family: myFutura;
+    src: url("Futura Book.ttf");
+}
+
+h3, p, a, span, li {
+    font-family: myFutura;
+}
