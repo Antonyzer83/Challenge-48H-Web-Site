@@ -9,3 +9,7 @@ main {
 p {
     font-size: 1.1em;
 }
+
+main img {
+    height: 10vh;
+}
