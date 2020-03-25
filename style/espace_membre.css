@@ -1,0 +1,12 @@
+ul li {
+    list-style: none;
+    line-height: 3em;
+}
+
+ul li:nth-child(2n-1) {
+    font-weight: bold;
+}
+
+.yellow-text {
+    color: #FFE400;
+}
