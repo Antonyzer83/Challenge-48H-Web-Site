@@ -14,7 +14,7 @@ main img {
     height: 10vh;
 }
 
-.dl-pdf:hover, .dl-pdf:visited, .dl-pdf:active {
+.dl-pdf:hover, .dl-pdf:visited, .dl-pdf:active, .dl-pdf:link {
     color: white;
     text-decoration: none;
 }
