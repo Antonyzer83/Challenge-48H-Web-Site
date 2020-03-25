@@ -1,0 +1,17 @@
+#button-div {
+    text-align: right;
+}
+
+.more-button {
+    padding: 2vh 6%;
+    border-radius: 8px;
+    background-color: #FFE400;
+    font-size: 1.1em;
+    color: black;
+}
+
+.article {
+    background-color: #EEEEEE;
+    width: 35%;
+    border-radius: 10px;
+}
