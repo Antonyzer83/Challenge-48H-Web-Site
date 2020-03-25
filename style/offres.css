@@ -1,0 +1,13 @@
+.offer {
+    background-color: black;
+    border-radius: 10px;
+    border: solid 1px #59FEFE;
+}
+
+.suscribe-button {
+    padding: 2vh 10%;
+    border-radius: 8px;
+    background-color: #FFE400;
+    font-size: 1.1em;
+    color: black;
+}
