@@ -10,3 +10,18 @@ ul li:nth-child(2n-1) {
 .yellow-text {
     color: #FFE400;
 }
+
+.time-box {
+    width: 20vh;
+    height: 20vh;
+    line-height: 20vh;
+    border-radius: 8px;
+    background-color: #FFE400;
+}
+
+main .time-box span {
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 1.5;
+    font-size: 1.2em;
+}
